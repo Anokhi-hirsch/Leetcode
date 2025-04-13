@@ -1,1 +1,1 @@
-# Leetcode-SQL
+# Leetcode practice for sql and python
