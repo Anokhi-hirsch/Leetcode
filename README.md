@@ -1,1 +1,4 @@
-# Leetcode practice for sql and python
+# Leetcode Solutions
+# SQL & Python
+
+Multiple solutions
